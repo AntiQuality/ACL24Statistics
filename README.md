@@ -2,7 +2,7 @@
 
 🚧 Work in progress
 
-### Before we start
+## Before we start
 
 It's strange that the existing work on OpenReview Statistics is all about ICLR, and there are few for ACL. How can an NLP-related conference go without NLP analysis?
 
@@ -10,37 +10,38 @@ Be careful, since ACL submission has not yet finished, statistics in this repo m
 
 The repo is (expected to be) updating.
 
-### Overview
+## Overview
 
 By 0306, there has been 1929 submissions in total (in morning). p.s. 1927 in afternoon (?)
 
-#### Research Area
+### Research Area
 
 1927 in total.
 
 ![](ResearchArea.png)
 
-#### Paper Type
+### Paper Type
 
 1927 in total.
 
 ![](PaperType.png)
 
-#### Wordcloud
+### Wordcloud
 
 1927 in total.
 
 ![](TitleWordCloud.png)
 
-### History
+## History
 
 - **@0306** In the AE Checklist stage. `1927` pieces of work have been revealed.
 
-### TODOs
+## TODOs
 
 - [ ] Tutorial of this approach.
+- [ ] Beautify the figure styles. Maybe continue to use the styles in own ACL submission?
 
-### Ackonwledgements
+## Ackonwledgements
 
 Thanks to other conference statistics works.
 
