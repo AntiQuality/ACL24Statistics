@@ -12,25 +12,25 @@ The repo is (expected to be) updating.
 
 ### Overview
 
-By 0306, there has been 1929 submissions in total (in morning). p.s. 1830 in afternoon (?)
+By 0306, there has been 1929 submissions in total (in morning). p.s. 1927 in afternoon (?)
 
 #### Research Area
 
-1830 in total.
+1927 in total.
 
-![](ResearchArea.pdf)
+![](ResearchArea.png)
 
 #### Paper Type
 
-1830 in total.
+1927 in total.
 
-![](PaperType.pdf)
+![](PaperType.png)
 
 #### Wordcloud
 
-1830 in total.
+1927 in total.
 
-![](TitleWordCloud.pdf)
+![](TitleWordCloud.png)
 
 ### History
 
@@ -38,7 +38,7 @@ By 0306, there has been 1929 submissions in total (in morning). p.s. 1830 in aft
 
 ### TODOs
 
-- [] Tutorial of this approach.
+- [ ] Tutorial of this approach.
 
 ### Ackonwledgements
 
